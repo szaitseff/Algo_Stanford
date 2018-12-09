@@ -1,0 +1,1 @@
+This repository contains my Python code for programming assignments from [Algorithms: Design and Analysis, Part 1](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about) course by Stanford University on Lagunita
